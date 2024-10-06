@@ -1,4 +1,4 @@
-Amanda Illona Farrel
-5025221056
-Keamanan Informasi B
-Tugas 1 DES Algorithm
+Amanda Illona Farrel <br>
+5025221056 <br>
+Keamanan Informasi B <br>
+Tugas 1 DES Algorithm <br>
